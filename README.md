@@ -4,7 +4,7 @@
 <h1 align="center">Hi there, I'm Eliot 👋</h1>
 
 ### About me:
-- :technologist:  I'm a French 2nd year student at Epitech Barcelona. I will graduate in 2026.
+- :technologist:  I'm a French 3rd year student at Epitech Nantes. I will graduate in 2026.
 
 - :climbing_man: I'm currently learning C++.
 
